@@ -1,6 +1,4 @@
-# Eliano Quiza
-
-**`carregando informações...`**
+## Hello, I'm  <a href="https://github.com/eliquiza">Eliano Quiza</a>. Welcome to my GitHub profile. Feel free to explore my projects and contributions
 
 Experiência Profissional
 ---
@@ -62,7 +60,7 @@ Experiência Profissional
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+/>   
 <img 
     align="left" 
     alt="Git" 
@@ -78,8 +76,24 @@ Experiência Profissional
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+/> 
+<img 
+    align="left" 
+    alt="Jira" 
+    title="Jira"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/> 
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/> 
+          
 <br/>
 <br/>
 
@@ -87,19 +101,18 @@ Experiência Profissional
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Eliquiza&show_icons=true&include_all_commits=true&custom_title=Trabalhanfo...&locale=pt-br" 
   />
 
-<img 
-      align="left" 
+  <img 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 5px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliquiza&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
