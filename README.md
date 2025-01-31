@@ -1,13 +1,9 @@
-## Hello, I'm  <a href="https://github.com/eliquiza">Eliano Quiza</a>. Welcome to my GitHub profile. Feel free to explore my projects and contributions
+## Olá, sou <a href="https://github.com/eliquiza">Eliano Quiza</a>. 
+Sejam bem vindos ao meu perfil do Github.
 
-Experiência Profissional
----
-<div>
-    <a href="https://github.com/vissesse">
-    <img heiht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliquiza&layout=compact&langs_count=16&theme=dark" />
-</div>
-<div>
-### 🤖 Linguagens e Tecnologias
+<div
+    width="100%"
+    >
     <img 
         align="left" 
         alt="HTML"
@@ -86,7 +82,7 @@ Experiência Profissional
         title="Jira"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
     /> 
     <img 
         align="left" 
@@ -94,29 +90,27 @@ Experiência Profissional
         title="Mysql"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
     /> 
-</div>       
+    <img 
+        align="left" 
+        alt="SQLdeveloper" 
+        title="SQLdeveloper"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+    /> 
+</div>  
 <br/>
 <br/>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliquiza" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=eliquiza](https://github-readme-stats.vercel.app/api/top-langs/?username=eliquiza&layout=compact&langs_count=16)" />
+</a>
 <div>
-    ### 📊 Estatísticas
-    
-    <p>
-      <img 
-        align="center" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 5px;" 
-        src="https://github-readme-stats.vercel.app/api?username=Eliquiza&show_icons=true&include_all_commits=true&custom_title=Trabalhanfo...&locale=pt-br" 
-      />
-    
-      <img 
-          align="center" 
-          alt="GitHub Stats" 
-          height="200" 
-          style="padding-right: 5px;" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliquiza&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </p>
+    <a href="https://github.com/eliquiza">
+    <img heiht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliquiza&layout=compact&langs_count=16" />
 </div>
