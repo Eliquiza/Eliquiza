@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Eliano Quiza
+# Eliano Quiza
 
-**`Desenvolvedor...`**
+**`carregando informações...`**
 
-A carregar informações...
+Experiência Profissional
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -57,14 +57,6 @@ A carregar informações...
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -98,15 +90,16 @@ A carregar informações...
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Eliquiza&show_icons=true&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 5px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Eliquiza&show_icons=true&include_all_commits=true&custom_title=Trabalhanfo...&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliquiza&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      style="padding-right: 5px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliquiza&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
