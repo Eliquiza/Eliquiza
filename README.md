@@ -1,6 +1,5 @@
-## Olá, sou <a href="https://github.com/eliquiza">Eliano Quiza</a>. 
-Sejam bem vindos ao meu perfil do Github.
-
+## Olá, sou <a href="https://github.com/eliquiza">Eliano Quiza</a>. Sejam bem vindos ao meu perfil do Github.
+Sinta-se livre para explorar...ainda estou a ajustar alguns pontos da apresentação...podes sugerir ideias...
 <div
     width="100%"
     >
