@@ -103,13 +103,13 @@ Sinta-se livre para explorar...ainda estou a ajustar alguns pontos da apresenta�
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/eliquiza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliquiza" />
+<a href="https://github.com/Eliquiza/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliquiza" />
 </a>
-<a href="https://github.com/eliquiza/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=eliquiza](https://github-readme-stats.vercel.app/api/top-langs/?username=eliquiza&layout=compact&langs_count=16)" />
+<a href="https://github.com/Eliquiza/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliquiza&layout=compact&langs_count=16" />
 </a>
 <div>
-    <a href="https://github.com/eliquiza">
-    <img heiht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliquiza&layout=compact&langs_count=16" />
+    <a href="https://github.com/Eliquiza">
+    <img heiht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliquiza&layout=compact&langs_count=16" />
 </div>
