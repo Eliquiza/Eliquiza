@@ -103,10 +103,10 @@ Sinta-se livre para explorar...ainda estou a ajustar alguns pontos da apresentaÃ
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/eliquiza/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliquiza" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/eliquiza/github-readme-stats">
   <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=eliquiza](https://github-readme-stats.vercel.app/api/top-langs/?username=eliquiza&layout=compact&langs_count=16)" />
 </a>
 <div>
