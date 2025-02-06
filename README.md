@@ -104,9 +104,6 @@ Sinta-se livre para explorar...ainda estou a ajustar alguns pontos da apresentaÃ
 <br/>
 <br/>
 <a href="https://github.com/Eliquiza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliquiza" />
-</a>
-<a href="https://github.com/Eliquiza/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliquiza&layout=compact&langs_count=16" />
 </a>
 <div>
